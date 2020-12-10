@@ -1,10 +1,10 @@
 # Covid19-Web-Scraping-and-Twitter-Analysis
 
-# Tweets Word Count Disribution
+# Tweets Word Count Distribution
 
 ![covid_word_count](https://user-images.githubusercontent.com/59103315/101749342-9e977500-3a9b-11eb-91d1-d59410afc1a3.png)
 
-# Sentiment Disribution of the Tweets
+# Sentiment Distribution of the Tweets
 
 ![covid_sentiment_distribution](https://user-images.githubusercontent.com/59103315/101749339-9e977500-3a9b-11eb-8a51-84d8fd676b66.png)
 
